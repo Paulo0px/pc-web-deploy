@@ -2,7 +2,7 @@
 
 ## App in laravel 
 
-## Como instalar o PHP
+## Como instalar o PHP na máquina
 
 ```
 sudo apt update
@@ -59,7 +59,7 @@ sudo nano app.conf
 
 ```
 <VirtualHost *:80>
-    ServerName [ip-da-sua-vm]
+    ServerName 54.226.128.15
     DocumentRoot /var/www/html/public
 
     <Directory /var/www/html/public>
