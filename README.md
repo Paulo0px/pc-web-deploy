@@ -2,7 +2,7 @@
 
 ## App in laravel 
 
-## Como instalar o PHP na máquina
+## Como instalar o PHP na máquina 
 
 ```
 sudo apt update
